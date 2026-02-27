@@ -1,6 +1,5 @@
 # Hey, I'm John
-
-I build AI-powered products. Currently working on [Lettie](https://lettie.uk) — an AI agent that watches every new London rental listing, learns your taste, and sends enquiries automatically.
+Currently working on [Lettie](https://lettie.uk) — an AI agent that watches every new London rental listing, learns your taste, and sends enquiries automatically.
 
 ### Open source
 
