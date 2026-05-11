@@ -1,5 +1,5 @@
 # Hey, I'm John
-Currently working on [Lettie](https://lettie.uk) — an AI agent that watches every new London rental listing, learns your taste, and sends enquiries automatically.
+Currently working on [fireside](https://join-fireside.com) 
 
 ### Open source
 
